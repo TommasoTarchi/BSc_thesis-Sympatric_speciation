@@ -1,4 +1,4 @@
-# BSc_thesis-Sympatric_speciation
+# Sympatric_speciation-BSc_thesis
 
 
 Here you can find all the code and data related to the final thesis for my BSc in Physics at the University of Florence.
