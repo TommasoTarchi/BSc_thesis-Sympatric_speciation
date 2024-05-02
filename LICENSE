@@ -631,8 +631,7 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    This program can be used to numerically study sympatric speciation in 
-both sexual and asexual species.
+    Sympatri_speciation-BSc_thesis - numerical study on sympatric speciation
     Copyright (C) 2024  Tommaso Tarchi
 
     This program is free software: you can redistribute it and/or modify
